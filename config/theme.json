@@ -3,7 +3,7 @@
         "core": {
             "primary": "#007BFF",
             "secondary": "#000000",
-            "border": "#202020",
+            "border": "#007BFF",
             "divider": "#007BFF",
             "scrollbar": "#007BFF"
         },
