@@ -1,13 +1,3 @@
 {
-    "loaders": [
-        {
-            "id": "Nebula",
-            "name": "Nebula Internal",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1141007976036053083_cloud/main/Nebula.exe",
-            "status": "online",
-            "imageUrl": "",
-            "productUrl": ""
-        }
-    ]
+    "loaders": []
 }
