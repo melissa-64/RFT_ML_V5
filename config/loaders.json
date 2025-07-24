@@ -26,6 +26,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "Crusader R6",
+            "name": "Crusader R6",
+            "categoryId": "r6",
+            "downloadUrl": "https://uniqueloader.com/r6s/",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
