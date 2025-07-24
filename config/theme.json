@@ -20,7 +20,7 @@
             "overlay": "rgba(10,10,10,0.5)",
             "custom-image": "",
             "logoImage": "https://cdn.discordapp.com/attachments/1387787846278058016/1393030283556683917/5723525.png?ex=6871b00c&is=68705e8c&hm=365d76fef2080451990224b7a8d3d33423f488cf717c6b64d3d626983e49e445&",
-            "background-anim": "particles"
+            "background-anim": "snow"
         },
         "border": {
             "radius": {
