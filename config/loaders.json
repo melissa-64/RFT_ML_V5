@@ -62,6 +62,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "Marvel Rivals Chair",
+            "name": "Marvel Rivals Chair",
+            "categoryId": "mr",
+            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/ELzsA47n7S8K.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
