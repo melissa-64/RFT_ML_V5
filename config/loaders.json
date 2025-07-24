@@ -143,6 +143,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "Rogue Company Chair",
+            "name": "Rogue Company Chair",
+            "categoryId": "others",
+            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/RC.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
