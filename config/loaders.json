@@ -44,6 +44,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "R6 Unlock All",
+            "name": "R6 Unlock All",
+            "categoryId": "r6",
+            "downloadUrl": "https://loader-instructions.gitbook.io/unlock-all",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
