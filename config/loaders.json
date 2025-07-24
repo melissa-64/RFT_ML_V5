@@ -1,3 +1,13 @@
 {
-    "loaders": []
+    "loaders": [
+        {
+            "id": "ZeroAim",
+            "name": "ZeroAim",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/ZeroAim.rar",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
+        }
+    ]
 }
