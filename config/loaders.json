@@ -188,6 +188,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "BO6 - Z Internal",
+            "name": "BO6 - Z Internal",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/Z.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
