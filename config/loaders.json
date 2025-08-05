@@ -188,15 +188,6 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
-        },
-        {
-            "id": "BO6 - Zenith",
-            "name": "BO6 - Zenith",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/Zenith.exe",
-            "status": "online",
-            "imageUrl": "",
-            "productUrl": ""
         }
     ]
 }
