@@ -4,7 +4,7 @@
             "id": "ZeroAim",
             "name": "ZeroAim External + Spoofer",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/ZeroAim.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1141007976036053083/ZeroAim.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -13,7 +13,7 @@
             "id": "Ghost External + Spoofer",
             "name": "Ghost External + Spoofer",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/Ghost.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1141007976036053083/Ghost.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -22,7 +22,7 @@
             "id": "Perm Spoofer",
             "name": "Perm Spoofer",
             "categoryId": "spoofers",
-            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/Perm_WooferNew.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1141007976036053083/Perm_WooferNew.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -40,7 +40,7 @@
             "id": "Inferno R6",
             "name": "Inferno R6",
             "categoryId": "r6",
-            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/0D_-_Product_Instructions_2.pdf",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1141007976036053083/0D_-_Product_Instructions_2.pdf",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -58,7 +58,7 @@
             "id": "EzVPN",
             "name": "EzVPN",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/EZVPN.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1141007976036053083/EZVPN.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -67,7 +67,7 @@
             "id": "Marvel Rivals Chair",
             "name": "Marvel Rivals Chair",
             "categoryId": "mr",
-            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/ELzsA47n7S8K.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1141007976036053083/ELzsA47n7S8K.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -76,7 +76,7 @@
             "id": "Apex Legends Chair",
             "name": "Apex Legends Chair",
             "categoryId": "apex",
-            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/LAUNCHER.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1141007976036053083/LAUNCHER.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -85,7 +85,7 @@
             "id": "CS2",
             "name": "CS2",
             "categoryId": "cs2",
-            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/CS2.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1141007976036053083/CS2.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -94,7 +94,7 @@
             "id": "PUBG Chair",
             "name": "PUBG Chair",
             "categoryId": "pubg",
-            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/pubg.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1141007976036053083/pubg.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -103,7 +103,7 @@
             "id": "Battlefield Chair",
             "name": "Battlefield Chair",
             "categoryId": "bf",
-            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/Battlefield.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1141007976036053083/Battlefield.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -112,7 +112,7 @@
             "id": "Dead By Daylight Chair",
             "name": "Dead By Daylight Chair",
             "categoryId": "dl",
-            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/DBD.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1141007976036053083/DBD.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -121,7 +121,7 @@
             "id": "Dark and Darker Chair",
             "name": "Dark and Darker Chair",
             "categoryId": "others",
-            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/Dark__Darker.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1141007976036053083/Dark__Darker.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -130,7 +130,7 @@
             "id": "War Thunder",
             "name": "War Thunder",
             "categoryId": "others",
-            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/War_Thunder.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1141007976036053083/War_Thunder.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -139,7 +139,7 @@
             "id": "GZW Chair",
             "name": "GZW Chair",
             "categoryId": "others",
-            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/GZW.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1141007976036053083/GZW.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -148,7 +148,7 @@
             "id": "Rogue Company Chair",
             "name": "Rogue Company Chair",
             "categoryId": "others",
-            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/RC.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1141007976036053083/RC.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -157,7 +157,7 @@
             "id": "Squad Chair",
             "name": "Squad Chair",
             "categoryId": "others",
-            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/Squad.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1141007976036053083/Squad.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -166,7 +166,7 @@
             "id": "Fecurity Chair",
             "name": "Fecurity Chair",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/Fecurity_COD.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1141007976036053083/Fecurity_COD.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -175,7 +175,7 @@
             "id": "Scum Chair",
             "name": "Scum Chair",
             "categoryId": "others",
-            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/Updater.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1141007976036053083/Updater.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -184,7 +184,7 @@
             "id": "MW3 - Zenith",
             "name": "MW3 - Zenith",
             "categoryId": "mw3",
-            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/Rage.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1141007976036053083/Rage.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -193,7 +193,7 @@
             "id": "BO6 - Z Internal",
             "name": "BO6 - Z Internal",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/Z.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1141007976036053083/Z.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
