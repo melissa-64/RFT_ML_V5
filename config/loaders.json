@@ -34,7 +34,9 @@
             "downloadUrl": "https://uniqueloader.com/r6s/",
             "status": "online",
             "imageUrl": "",
-            "productUrl": ""
+            "productUrl": "",
+            "contentType": "web_downloadable",
+            "version": "1.0"
         },
         {
             "id": "Inferno R6",
