@@ -57,7 +57,9 @@
             "downloadUrl": "https://loader-instructions.gitbook.io/unlock-all",
             "status": "online",
             "imageUrl": "",
-            "productUrl": ""
+            "productUrl": "",
+            "contentType": "web_downloadable",
+            "version": "1.0"
         },
         {
             "id": "EzVPN",
