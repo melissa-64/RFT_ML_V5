@@ -60,7 +60,8 @@
             "imageUrl": "",
             "productUrl": "",
             "contentType": "web_downloadable",
-            "version": "1.1"
+            "version": "1.1",
+            "instructions": "https://loader-instructions.gitbook.io/unlock-all"
         },
         {
             "id": "EzVPN",
