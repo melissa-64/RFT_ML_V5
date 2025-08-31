@@ -242,6 +242,22 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "fortnite-disconnect",
+            "name": "Fortnite Disconnect",
+            "categoryId": "fortnite",
+            "downloadUrl": "https://cheezit.life/",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "",
+            "instructions": "",
+            "contentType": "web_downloadable",
+            "version": "1.0",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
